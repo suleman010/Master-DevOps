@@ -12,7 +12,7 @@ I use Ansible Scripts / Terraform for making clusters.
 Once it done i create a Jenkins machine and create a pipeline to do all the above steps automatically on every code push on master branch.
 
 
-#Full Guide To Setup
+# Full Guide To Setup
 
 1. sudo snap install terraform
 or you may get help from there to install terraform
